@@ -1,1 +1,1 @@
-# Ahn-seokjoo-GithubTemplateExample
+# GithubTemplateExample
